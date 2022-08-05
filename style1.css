@@ -1,0 +1,279 @@
+body{
+    
+}
+h2{
+    text-align: center;
+    color: #bb0505;
+}
+h5{
+    color: #b50606;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+input{
+    width: 70%;
+    border-radius: 8px;
+    padding: 7px 0px;
+    padding-left: 10px;
+}
+
+.contact-area input, .contact-area textarea{
+    width: 80%;
+    padding: 12px 0px;
+    padding-left: 10px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.mybtn{
+    font-size: 14px;
+    /* text-transform: capitalize; */
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #b50606;
+    border: solid 1px #b50606;
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+
+.mybtn:hover {
+    color: #b50606;
+    background-color: #fff;
+}
+/* home page */
+.home-header a{
+    margin-right: 40px;
+}
+.banner{
+    background-image: url(images/banner.png);
+}
+.banner-text{
+    padding: 170px 0px;
+    color: #fff;
+    margin-left: 100px;
+}
+.menu{
+    margin: 20px 0px;
+}
+.about{
+    margin-top: 80px;
+}
+.about-r{
+    padding-top: 40px;
+    padding-left: 50px;
+}
+.mid{
+    background-image: url(images/bg-img.png);
+    margin-top: 80px;
+}
+.mid-area{
+    padding-top: 90px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.testimonial{
+    margin-top: 80px;
+}
+.testimonial-area{
+    padding-top: 40px;
+}
+.testimonial-txt{
+    padding-top: 40px;  
+}
+.testimonial-area img{
+    padding-left: 140px;
+}
+.news-event{
+    margin-top: 80px;
+}
+.news-event a{
+    color: #b50606;
+}
+.home-news{
+    margin-top: 80px;
+    background-color: #4a4a4a;
+    padding: 40px 0px;
+}
+
+
+/* about us page */
+.header a{
+    margin-right: 40px;
+}
+.header h2{
+    background-image: url(images/about\ banner.png);
+    padding: 150px 0px;
+    color: #fff;
+    text-align: center;
+}
+.menu{
+    margin: 20px 0px;
+}
+.purpose{
+    margin-top: 80px;
+}
+.purpose-r{
+    padding-top: 40px;
+}
+.service{
+    margin-top: 80px;
+}
+.history{
+    margin-top: 80px;
+}
+.history-l{
+    padding-top: 40px;
+}
+.team{
+    margin-top: 80px;
+}
+.team h5{
+    text-align: center;
+}
+.row-m{
+    padding-top: 40px;
+}
+.project{
+    /* margin-top: 80px; */
+    background-color: #eee;
+    padding: 40px 0px;
+}
+.news{
+    background-color: #4a4a4a;
+    padding: 40px 0px;
+}
+.footer{
+    background-color: #000;
+    color: #fff;
+    padding-top: 50px;
+}
+.quick-link{
+    padding-left: 60px;
+}
+.footer-border{
+    padding-bottom: 60px;
+    border-bottom-width: 1px;
+    border-bottom-color: #fff;
+    border-bottom-style: solid;
+}
+
+/*contact us css page*/
+.contact-header a{
+    margin-right: 40px;
+}
+.contact-header h2{
+    background-image: url(images/contact.png);
+    padding: 150px 0px;
+    color: #fff;
+    text-align: center;
+}
+.contact-area{
+    margin-top: 80px;
+}
+.contact-info{
+    padding-top: 70px;
+    padding-left: 90px;
+}
+.contact-info img{
+    height: 20px;
+}
+.icon{
+    padding-left: 100px;
+}
+.map{
+    margin-top: 80px;
+}
+.map img{
+    width: 100%;
+}
+ /* service css */
+ .service-header a{
+    margin-right: 40px;
+}
+.service-banner{
+    background-image: url(images/service\ banner.png);
+}
+ .service-banner h2{
+    padding: 140px 0px;
+    color: #fff;
+    text-align: center;
+ }
+ .txt{
+    margin-top: 40px;
+ }
+ .service-icons{
+    margin-top: 80px;
+ }
+ .service-icons p{
+    color: #fff;
+ }
+ .icons{
+    text-align: center;
+    padding-top: 12px;
+ }
+ .icons :hover{
+    opacity: 0.9;
+ }
+ .service1{
+    background-color: #1C6303;
+ }
+ .service2{
+    background-color: #804E03;
+ }
+ .service3{
+    background-color: #020F53;
+ }
+ .service4{
+    background-color: #2E0335;
+ }
+ .service5{
+    background-color: #020F53;
+ }
+ .service6{
+    background-color: #2E0335;
+ }
+ .service7{
+    background-color: #1C6303;
+ }
+ .service8{
+    background-color: #804E03;
+ }
+ .service-img{
+    margin-top: 50px;
+    margin-bottom: 70px;
+ }
+ .service-img img{
+    height: 79%;
+ }
+ .service-img, .mybtn{
+    text-align: center;
+ }
+  /* project css */
+  .project-header a{
+    margin-right: 40px;
+}
+.project-banner{
+    background-image: url(images/project\ banner.png);
+}
+ .project-banner h2{
+    padding-top: 150px;
+    padding-bottom: 60px;
+    color: #fff;
+    text-align: center;
+ }
+ .project-txt{
+    margin-top: 40px;
+    text-align: center;
+ }
+ .project-area{
+    margin-top: 40px;
+ }
+ .project-footer{
+    margin-top: 50px;
+    background-color: #000;
+    color: #fff;
+    padding-top: 50px;
+}
